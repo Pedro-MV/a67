@@ -1,1 +1,2 @@
 monstros:zumbis 
+monstros:fantasmas 
